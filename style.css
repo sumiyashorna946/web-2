@@ -1,0 +1,19 @@
+body{
+	font-display: Arial, sans-serif;
+	margin:20;
+}
+h2{
+	color: navy;
+}
+form{
+	width: 400px;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 20px;
+}
+#output{
+	margin-top: 20px;
+	padding: 15px;
+	border: 1px solid gray;
+	border-radius: 20px;
+}
